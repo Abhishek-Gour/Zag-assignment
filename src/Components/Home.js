@@ -1,3 +1,9 @@
+/**
+ * The Home function returns a React component that renders a header, products, and a bottom section
+ * for a website.
+ * @returns The `Home` component is being returned, which contains the `Header`, `HeaderMobo`,
+ * `Products`, and `Bottom` components.
+ */
 import React from 'react';
 import './Home.css';
 

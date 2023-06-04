@@ -1,3 +1,6 @@
+/* This code is defining a Redux slice for managing a shopping cart. It imports `createSlice` from the
+`@reduxjs/toolkit` library and `toast` from the `react-toastify` library. It also imports a `data`
+object from a file containing product data. */
 import { createSlice } from "@reduxjs/toolkit";
 import { toast } from "react-toastify";
 import data from "../Components/ProductsData";

@@ -1,3 +1,9 @@
+/**
+ * This is a React component that renders a dashboard with various icons, search and filter options,
+ * and displays data from a JSON file.
+ * @returns The `Dashboard` component is being returned, which contains JSX elements and data mapping
+ * to display a dashboard interface.
+ */
 import React from 'react';
 import './Dashboard.css';
 import SearchIcon from '@mui/icons-material/Search';

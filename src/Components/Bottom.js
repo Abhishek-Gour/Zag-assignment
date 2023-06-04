@@ -1,3 +1,10 @@
+/**
+ * The Bottom component is a React function that renders a mobile bottom navigation bar with icons and
+ * links.
+ * @returns A React functional component named "Bottom" is being returned. It renders a div with class
+ * "main-bottom-mobo" and contains four icons wrapped in Link components. The icons are HomeIcon,
+ * ShoppingCartIcon, NotificationsIcon, and PersonIcon.
+ */
 import React from 'react'
 import './Bottom.css'
 import HomeIcon from '@mui/icons-material/Home';

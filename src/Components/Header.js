@@ -1,3 +1,8 @@
+/**
+ * This is a React component for a header with search, cart, notification, and person icons.
+ * @returns The `Header` component is being returned, which contains the HTML markup for the header
+ * section of a web page.
+ */
 import React from 'react'
 import './Header.css'
 import SearchIcon from '@mui/icons-material/Search';

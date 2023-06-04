@@ -1,3 +1,15 @@
+/**
+ * The Payment function is a React component that renders a payment form with input fields for card
+ * number, name on card, expiration date, and security code, and a button to initiate payment.
+ * @returns The Payment component is being returned, which contains JSX elements for a payment form.
+ */
+/**
+ * The function is a React component that displays a product page with various details and options,
+ * including the ability to select a size and add the product to a cart.
+ * @returns The `ProductPage` component is being returned, which renders the product details and allows
+ * the user to select the size and quantity of the product, and add it to the cart. If no product is
+ * selected, it displays a message asking the user to select a product first.
+ */
 import React, { useState } from 'react'
 import './ProductPage.css'
 import ShoppingBagIcon from '@mui/icons-material/ShoppingBag';

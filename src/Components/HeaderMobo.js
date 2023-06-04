@@ -1,3 +1,9 @@
+/**
+ * The function exports a React component for a mobile header with a logo, user icon, welcome message,
+ * and search field.
+ * @returns The HeaderMobo component is being returned, which contains JSX elements representing the
+ * mobile header of a fashion app.
+ */
 import React from 'react'
 import './HeaderMobo.css'
 import SearchIcon from '@mui/icons-material/Search';

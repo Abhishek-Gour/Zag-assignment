@@ -1,3 +1,10 @@
+/**
+ * The Products component displays a list of products and allows the user to add them to the cart.
+ * @returns The `Products` component is returning a JSX element that contains a list of products with
+ * their images, titles, descriptions, and prices. Each product is wrapped in a `Link` component that
+ * navigates to a product page when clicked. The `handleAdd` function is called when a product image is
+ * clicked, which dispatches an `add` action to the Redux store.
+ */
 import React from 'react'
 import './Products.css'
 import { useDispatch, useSelector } from 'react-redux'
