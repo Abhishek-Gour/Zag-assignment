@@ -1,0 +1,282 @@
+ [
+    {
+        "name": "Casual",
+        "img": "./images/asset 7.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Button Down Skater",
+        "price": "$30",
+       " quantity":1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 8.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "DB Moon Women Caual",
+        "price": "$30",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 9.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "The Drop Women's ",
+        "price": "$30",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 10.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "PRETTYGARDEN Women's",
+        "price": "$30",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 11.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Cosonsen Women's Dress",
+        "price": "$30",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 12.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "LYANER Women's Satin Drape",
+        "price": "$30",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 13.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "OUGES Women's",
+        "price": "$29",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 14.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "TECREW Women's ",
+        "price": "$38",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 15.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "WEACZZY Women's Summer",
+        "price": "$29",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 16.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "TECREW Womens's Square Neck",
+        "price": "$38",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 17.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "WEACZZY Womens's Summer",
+        "price": "$23",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 18.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "PRETTYGARDEN Women's 2023",
+        "price": "$41",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 19.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Ever-Pretty Womens Vintage",
+        "price": "$49",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 20.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "SAMPEEL Womens Square",
+        "price": "$37",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 21.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "YESNO Womens Causal Loose",
+        "price": "$43",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 22.jpeg",
+        "title": "OUGES Women's V Neck",
+        "price": "$30",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 23.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Wenrine Women's",
+        "price": "$36",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 24.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "IHOT Casual Dress",
+        "price": "$33",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 25.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Amazon Essential Women's",
+        "price": "$21",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 26.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Cantonwalker Women's Cowl",
+        "price": "$34",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 27.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Mxrag Womens Summer outfits 2023",
+        "price": "$38",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 28.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "AIMCOO Women's Long Puff Sleeves",
+        "price": "$35",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 29.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "PRIMODA Women's Spaghetti",
+        "price": "$29",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 30.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Missufe Women's Short Sleeve",
+        "price": "$29",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 31.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Amazon Essential",
+        "price": "$23",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 32.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Newffr Womens V Neck",
+        "price": "$40",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 33.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Aoysky Womens V Neck",
+        "price": "$41",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 7.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Amazon Essential",
+        "price": "$20",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 34.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "The Drop Women's Amelia",
+        "price": "$18",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 35.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "PRETTYGARDEN Women's Caual",
+        "price": "$44",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 36.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "The Drop Women's Zuri Fitted",
+        "price": "$22",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 37.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Amazon Essential Women's",
+        "price": "$39",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 38.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "Amazon Essential Women's",
+        "price": "$27",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 39.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "ECOWISH  Women's Dresses",
+        "price": "$34",
+        " quantity": 1
+    },
+    {
+        "name": "Casual",
+        "img": "./images/asset 40.jpeg",
+        "title": "OUGES Women's V Neck",
+        "description": "ECOWISH Women's Dresses",
+        "price": "$50",
+        " quantity": 1
+    }
+]
+

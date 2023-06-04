@@ -1,0 +1,53 @@
+.main-bottom-mobo {
+  position: relative;
+  height: 80px;
+  width: 100%;
+  background: #ffffff;
+  color: black;
+  border-radius: 30px 30px 0px 0px;
+  box-shadow: 0px -2px 7px 0px #0000001A;
+  justify-content: space-around;
+}
+
+.home-logo {
+  width: 90px;
+  height: 40px;
+  border-radius: 30px;
+  justify-content: space-around;
+  padding: 2px;
+  background-color: #eeeeee;
+}
+.home-logo span {
+  color: black;
+  font-size: 16px;
+  font-weight: 600;
+  text-decoration: none;
+}
+.home-icon {
+  width: 30px;
+  height: 30px;
+  background-color: #000000;
+  color: white;
+  padding: 2px;
+  border-radius: 50%;
+}
+.cart-icon {
+  color: #000000;
+}
+.cart-icon:hover {
+  background-color: gray;
+  transition: all 0.5s ease-out;
+  cursor: pointer;
+}
+.icon-hover {
+  height: 30px;
+  justify-content: center;
+  width: 30px;
+  padding: 2px;
+  border-radius: 50%;
+}
+.icon-hover:hover {
+  background-color: gray;
+  transition: all 0.5s ease-out;
+  cursor: pointer;
+}
